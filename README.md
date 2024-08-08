@@ -4,7 +4,7 @@ This project contains a machine learning model for classifying iris flowers base
 
 ## Dataset
 
-The dataset used is `IRIS.csv`.
+The dataset used is `IRIS.csv`. (taken from kaggle)
 
 ## Requirements
 
